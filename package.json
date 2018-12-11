@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/atticlab/js-smart-base.git"
+    "url": "https://github.com/alexpro401/smart-base-js.git"
   },
   "keywords": [
     "stellar"
@@ -23,9 +23,9 @@
   "author": "Scott Fleckenstein <scott@stellar.org>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/stellar/js-stellar-base/issues"
+    "url": "https://github.com/alexpro401/smart-base-js/issues"
   },
-  "homepage": "https://bitbucket.org/atticlab/js-smart-base",
+  "homepage": "https://github.com/alexpro401/smart-base-js",
   "devDependencies": {
     "babel": "~5.8.23",
     "babel-core": "~5.8.25",
